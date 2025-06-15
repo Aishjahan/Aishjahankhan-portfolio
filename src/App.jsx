@@ -60,7 +60,7 @@ const App = () => {
       profileImage: "https://storage.googleapis.com/hostinger-horizons-assets-prod/d76b3ac2-ad7d-4223-9dd0-64c3eaa968a4/69b41e8a88d028a82496eed3523a35d0.jpg",
     },
     education: {
-      degree: "Bachelor of Computer Science",
+      degree: "Bachelor of Technology (Computer Science Engineering)",
       university: "Dr. Shakuntala Misra National Rehabilitation University",
       cgpa: "8.94/10",
       graduationYear: "2025",
@@ -208,7 +208,7 @@ const App = () => {
     footer: {
       name: "Aishjahan Khan",
       role: "",
-      copyright: "© 2024 Aishjahan Khan. All rights reserved."
+      copyright: "© 2025 Aishjahan Khan. All rights reserved."
     }
   };
 
