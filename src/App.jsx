@@ -130,7 +130,7 @@ const App = () => {
         tech: ["Flask", "Hugging Face", "React", "ShadCN"],
         achievements: ["70% boost in learning efficiency", "Integrated LLMs for content generation", "Audio lecture playback functionality"],
         image: "LectroAI - AI Powered Lecture Assistant interface",
-        github: "#",
+        github: "https://github.com/Aishjahan/LectroAI",
         live: "#"
       },
       {
